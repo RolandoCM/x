@@ -1,0 +1,19 @@
+ConnectionFactory
+
+
+https://docs.jboss.org/jbossas/javadoc/4.0.2/javax/xml/registry/ConnectionFactory.java.html
+http://www.byteslounge.com/tutorials/java-abstract-factory-pattern-example  ----> implementation
+
+pool connection
+        maxActive
+        maxIdle
+        maxWait
+        ConnectionFactory
+
+Datasource
+        PoolConnections
+        ConnectionFactory
+
+SessionFactory
+        dataSource
+        
